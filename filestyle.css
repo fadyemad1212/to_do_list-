@@ -1,0 +1,76 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.test{
+ 
+
+    
+    background-image: url(./WhatsApp\ Image\ 2022-01-10\ at\ 7.09.20\ PM.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.margin{
+
+margin-top: 120px;
+
+
+}
+
+h1{
+
+text-align: center;
+
+
+
+
+}
+.task{
+
+
+    border: 2px solid   rgb(133, 0, 241);
+
+margin-top: 30px;
+margin-bottom: 30px;
+
+width: 500px;
+margin-left: auto;
+margin-right: auto;
+
+padding: 10px 30px;
+display: flex;
+justify-content: space-between;
+
+
+background: rgba( 6, 33, 245, 0.2 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 20px );
+-webkit-backdrop-filter: blur( 20px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+
+
+}
+p{
+
+    font-size: 20px;
+    font-style: italic;
+}
+
+h2{
+
+text-align: center;
+
+}
+
+
+.dimintional{
+
+    text-align: center;
+margin-top: 50px;
+
+}
+
